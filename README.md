@@ -1,5 +1,5 @@
 # Image Classification App
-This project is a simple web application for image classification built using Django and PyTorch. It uses a pretrained DenseNet model to classify uploaded images based on ImageNet labels.
+This project is a simple web application for image classification built using Django and PyTorch. It uses a pretrained DenseNet model to classify uploaded images based on ImageNet labels
 
 # Features
 ✳️Upload images via a web interface.
